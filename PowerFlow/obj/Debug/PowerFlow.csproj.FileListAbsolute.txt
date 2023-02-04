@@ -1,0 +1,156 @@
+c:\users\engine\source\repos\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+c:\users\engine\source\repos\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+c:\users\engine\source\repos\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csprojResolveAssemblyReference.cache
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.lref
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.Cache
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.CoreCompileInputs.cache
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+c:\users\engine\source\repos\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csprojResolveAssemblyReference.cache
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.lref
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.Cache
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.CoreCompileInputs.cache
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.baml
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.g.cs
+C:\Users\ENGINE\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csprojResolveAssemblyReference.cache
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.lref
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.baml
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.Cache
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.CoreCompileInputs.cache
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+E:\SLAVEN\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csprojAssemblyReference.cache
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.lref
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.baml
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.cache
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.CoreCompileInputs.cache
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+C:\Users\stoji\OneDrive\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe.config
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.exe
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\bin\Debug\PowerFlow.pdb
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.AssemblyReference.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.SuggestedBindingRedirects.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\App.g.cs
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow_MarkupCompile.lref
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Generator.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\GeneratorWin.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Load.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\LoadWin.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\MainWindow.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBus.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\NodeBusWin.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerLineWin.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\SettingsWin.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\Transformer.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\TransformerWin.baml
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.g.resources
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.Properties.Resources.resources
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.GenerateResource.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.csproj.CoreCompileInputs.cache
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.exe
+F:\stoji\OneDrive - stari SSD\Desktop\Git Projects\PowerFlow\PowerFlow\obj\Debug\PowerFlow.pdb

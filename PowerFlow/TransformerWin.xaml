@@ -1,0 +1,21 @@
+﻿<Window x:Class="PowerFlow.TransformerWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PowerFlow"
+        mc:Ignorable="d"
+        Title="TransformerWin" Height="404.545" Width="519.091">
+    <Grid>
+        <TextBox x:Name="txtRd" HorizontalAlignment="Left" Height="23" Margin="81,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtXd" HorizontalAlignment="Left" Height="23" Margin="81,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtUVN" HorizontalAlignment="Left" Height="23" Margin="81,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtUNN" HorizontalAlignment="Left" Height="23" Margin="81,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="315,275,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label Content="Rd" HorizontalAlignment="Left" Margin="31,79,0,0" VerticalAlignment="Top"/>
+        <Label Content="Xd" HorizontalAlignment="Left" Margin="31,122,0,0" VerticalAlignment="Top"/>
+        <Label Content="UVN" HorizontalAlignment="Left" Margin="31,170,0,0" VerticalAlignment="Top"/>
+        <Label Content="UNN" HorizontalAlignment="Left" Margin="31,212,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
